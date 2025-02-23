@@ -1,0 +1,12 @@
+/**
+ * Updated by Xuanthe's author on December 10 2024
+ * "A bit of fragrance clings to the hand that gives flowers!"
+ */
+
+{
+  "compilerOptions": {
+    "paths": {
+      "~/*": ["./src/*"]
+    }
+  }
+}
